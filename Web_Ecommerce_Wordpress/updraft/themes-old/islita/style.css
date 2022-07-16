@@ -1,0 +1,33 @@
+/*
+Theme Name: islita
+Version: 1.0
+Description: A child theme of Shop Isle
+Author: PleyadesM
+Template: shop-isle
+*/
+
+@import url("../shop-isle/style.css");
+.checkout-button {display:none !important;
+}
+ .wcppec-checkout-buttons__separator {color: #ffffff !important;
+}
+
+.product-quantity {display:none !important;
+}
+.product-subtotal {display:none !important;
+}
+.cart .quantity {display:none !important;
+}
+
+.add-to-cart-button-wrap {display:none !important;
+}
+.onsale {display:none !important;
+}
+.woocommerce-product-gallery__trigger  {display:none !important;
+}
+
+.zoomImg {display:none !important;
+}
+
+.actions {display:none !important;
+}
